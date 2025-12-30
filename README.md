@@ -1,4 +1,4 @@
-# Electric Vehicle — ME2160 Design Project
+# Electric Vehicle — Inro to ME Design Project
 
 Electrically powered vehicle designed, fabricated, and tested for ME2160 (Intro to Mechanical Engineering Design). Completed the 10-ft run in 0.60 seconds and placed first in the speed category.
 
