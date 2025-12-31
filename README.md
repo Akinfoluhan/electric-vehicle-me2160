@@ -54,6 +54,6 @@ This combination of mechanical iteration and electrical optimization led to a fa
 
 ## Collaborators
 
-- [Matt DeAnzeris](https://www.linkedin.com/in/matthew-deanzeris/)
+- [Matthew DeAnzeris](https://www.linkedin.com/in/matthew-deanzeris/)
 
 Project completed as a two-person team.
